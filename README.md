@@ -48,7 +48,7 @@ This is to address the requested bulleted list:
 
 ## How this could be used
 
-Summary statement: the electoral commision could potentially use this script to make the follow modifications, for any election:
+Summary statement: the electoral commision could potentially use the following scripts to predict eldection results, both high and low.
 
 Line 115   
 
@@ -59,7 +59,7 @@ line 152
 
 if (votes > winning_count) and (vote_percentage > winning_percentage):
 
-##Screenshot of election results
+## Screenshot of election results
 
 Please see the below .png file for terminal screenshot of results:
 
