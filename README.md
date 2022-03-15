@@ -14,9 +14,6 @@ The Colorado Board of Elections requested an audit of a recent election. Softwar
 
 This is to address the requested bulleted list:
 
-There is a bulleted list where each election outcome is addressed. (7 pt)
-Election Audit Summary
-
 - How many votes were cast in this congressional election?
 
     369,711 total votes were cast
