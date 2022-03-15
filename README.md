@@ -43,12 +43,12 @@ This is to address the requested bulleted list:
     Winner: Diana DeGette
 
     Winning Vote Count: 272,892
-    
+
     Winning Percentage: 73.8%
 
 ## Election-Audit Summary
 
-Summary statement: the electoral commision could potentially use this script to make the follow modifications- for any election:
+Summary statement: the electoral commision could potentially use this script to make the follow modifications, for any election:
 
 Line 115   
 
