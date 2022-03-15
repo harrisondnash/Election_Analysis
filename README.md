@@ -1,10 +1,12 @@
 # Overview of Election Audit
 
+##hahaJKKKKKK
+
 The Colorado Board of Elections requested an audit of a recent election. Software was implemted to complete the following tasks:
 1. Total votes cast
 2. List of candidates
 3. Number of votes per candidate 
-4. Percentage of votes per candidate/state
+4. Percentage of votes per candidate per state
 5. Winner!
 6. How many people went to the polls per county
 7. What percentile of the county per capita went to the polls
@@ -25,6 +27,7 @@ This is to address the requested bulleted list:
     Arapahoe: 6.7% (24,801)
 
 - Which county had the largest number of votes?
+
     Denver Co.
 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
