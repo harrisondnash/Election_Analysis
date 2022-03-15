@@ -46,7 +46,7 @@ This is to address the requested bulleted list:
 
     Winning Percentage: 73.8%
 
-## Election-Audit Summary
+## How this could be used
 
 Summary statement: the electoral commision could potentially use this script to make the follow modifications, for any election:
 
@@ -59,7 +59,9 @@ line 152
 
 if (votes > winning_count) and (vote_percentage > winning_percentage):
 
-Please see img file for terminal screenshot of results.
+##Screenshot of election results
+
+Please see the below .png file for terminal screenshot of results:
 
 ![image info](./img/terminal.png)
 
