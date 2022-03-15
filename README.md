@@ -48,7 +48,7 @@ This is to address the requested bulleted list:
 
 ## How this could be used
 
-Summary statement: the electoral commision could use the following scripts to predict future eldection results, both high and low, i,e:
+Summary statement: The electoral commision could use the following scripts to analize election results, both high and low:
 
 Line 115   
 
