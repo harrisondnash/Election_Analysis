@@ -1,21 +1,24 @@
 # Overview of Election Audit
 
-The Colorado Board of Elections requested an audit of a recent election. Software was implemted to complete tasks including:
+The Colorado Board of Elections requested an audit of a recent election. Software was implemted to complete the following tasks:
 1. Total votes cast
-2. Candadidate list 
+2. List of candidates
 3. Number of votes per candidate 
 4. Percentage of votes per candidate/state
-5. Ultimate winner
+5. Winner!
 6. How many people went to the polls per county
-7. What percentile of the county capita went to the polls
+7. What percentile of the county per capita went to the polls
 8. The county with the largest voter turnout
 
 ## Election Audit Results
+
+This is to address the requested bulleted list:
 
 There is a bulleted list where each election outcome is addressed. (7 pt)
 Election Audit Summary
 
 - How many votes were cast in this congressional election?
+
     369,711 total votes were cast
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
