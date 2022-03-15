@@ -61,6 +61,9 @@ if (votes > winning_count) and (vote_percentage > winning_percentage):
 
 Please see img file for terminal screenshot of results.
 
+![image info](./img/terminal.png)
+
+
 
 
 
