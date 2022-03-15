@@ -7,7 +7,7 @@ The Colorado Board of Elections requested an audit of a recent election. Softwar
 4. Percentage of votes per candidate per state
 5. Winner!
 6. How many people went to the polls per county
-7. What percentile of the county per capita went to the polls
+7. What capita percentile went to the polls
 8. The county with the largest voter turnout
 
 ## Election Audit Results
@@ -48,7 +48,7 @@ This is to address the requested bulleted list:
 
 ## How this could be used
 
-Summary statement: the electoral commision could potentially use the following scripts to predict eldection results, both high and low.
+Summary statement: the electoral commision could use the following scripts to predict future eldection results, both high and low, i,e:
 
 Line 115   
 
